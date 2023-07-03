@@ -1,3 +1,6 @@
+'''This small automated script can easily retrieve entire PDF pages and convert them into txt.
+The script uses the popular PyPDF2 module, which is known for its PDF text extraction.'''
+
 import PyPDF2
  
 #create file object variable
